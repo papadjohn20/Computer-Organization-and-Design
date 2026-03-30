@@ -17,7 +17,7 @@
 
 </div>
 
-This repository contains the projects developed for the **Computer Organization and Design** course ECE163 from my 2nd year. The curriculum covers the full hierarchy of computer systems, from assembly-level programming to the structural hardware design of a MIPS-based processor and system-level memory analysis.
+This repository contains the projects developed for the **Computer Organization and Design** course ECE219 from my 2nd year. The curriculum covers the full hierarchy of computer systems, from assembly-level programming to the structural hardware design of a MIPS-based processor and system-level memory analysis.
 
 <div align="center">
 
